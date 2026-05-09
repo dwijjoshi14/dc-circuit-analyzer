@@ -1,0 +1,4 @@
+circuit_analyzer
+*.o
+*.out
+.DS_Store
